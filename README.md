@@ -57,6 +57,10 @@ organization={Springer}
 }
 ```
 
+# HCAE on arXiv
+
+https://arxiv.org/abs/2009.11553
+
 # Acknowledgement
 
 I. Rekik is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Individual Fellowship grant agreement No 101003403 (http://basira-lab.com/normnets/).
